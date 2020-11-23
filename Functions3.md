@@ -116,6 +116,11 @@ El programa dispondrá de funciones que calculen:
 * La media
 de los valores almacenados en el vector.
 
+5.- El directorio `bugs` de que hallará en el repositorio que ha clonado contiene varios programas que son la
+solución a algunos de los problemas de la Hoja 2 publicada en el aula virtual de la asignatura.
+Estos programas contienen algún tipo de error.
+
+Utilice el depurador integrado de VSC para depurar estos programas de modo que funcionen correctamente.
 
 
 ### Referencias
