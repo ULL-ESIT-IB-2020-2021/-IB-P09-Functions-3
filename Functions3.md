@@ -64,7 +64,7 @@ $ ./find_first_of AlbertEinstein Z
 ```
 
 2. Un [primo de Mersenne](https://es.wikipedia.org/wiki/N%C3%BAmero_primo_de_Mersenne) es un número primo de la 
-   forma `2<sup>p</sup> - 1`. 
+   forma 2<sup>p</sup> - 1. 
 	 Una propiedad conocida de de los primos de Mersenne es que `p` debe ser también un número primo.
    Desarrolle un programa `mersenne.cc` que tome por línea de comandos un número `N` y muestre 
 	 como salida los primeros `N` primos de Mersenne.
