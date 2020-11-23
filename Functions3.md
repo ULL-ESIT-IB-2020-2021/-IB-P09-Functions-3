@@ -90,10 +90,10 @@ por pantalla un texto explicativo de su finalidad y comportamiento.
 3. Un número de Armstrong es un número que es la suma de sus propios dígitos, 
    cada uno de los cuales elevado al número de dígitos del número. 
 	 Por ejemplo:
-   * 9 es un número de Armstrong porque: 9 = 9^1 = 9
-   * 10 no es un número de Armstrong porque: 10 != 1^2 + 0^2 = 1
-   * 153 es un número de Armstrong porque: 153 = 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
-   * 154 no es un número de Armstrong porque: 154 != 1^3 + 5^3 + 4^3 = 1 + 125 + 64 = 190
+   * 9 es un número de Armstrong porque: 9 = 9<sup>1</sup> = 9
+   * 10 no es un número de Armstrong porque: 10 != 1<sup>2</sup> + 0<sup>2</sup> = 1
+   * 153 es un número de Armstrong porque: 153 = 1<sup>3</sup> + 5<sup>3</sup> + 3<sup>3</sup> = 1 + 125 + 27 = 153
+   * 154 no es un número de Armstrong porque: 154 != 1<sup>3</sup> + 5<sup>3</sup> + 4<sup>3</sup> = 1 + 125 + 64 = 190
 
    Desarrolle un programa en C++ que tome como parámetro por línea de comandos un 
 	 número e indique si se trata de un número de Armstrong o no.
