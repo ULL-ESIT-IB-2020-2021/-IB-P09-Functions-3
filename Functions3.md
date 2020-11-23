@@ -51,6 +51,10 @@ Modifique los nombres de los ficheros que aquí se proponen para adaptarlos al e
 La compilación de los programas correspondientes a cada ejercicio se automatizará con un fichero Makefile para
 cada ejercicio.
 
+Desarrolle cada uno de estos ejercicios de forma incremental, probando cada una de las funciones que va Ud.
+desarrollando. Utilice el depurador de VSC para corregir cualquier tipo de error semántico que se produzca en
+cualquiera de sus desarrollos.
+
 1. Escriba un programa `find_first_of.cc' que dada una cadena y un carácter, determine la primera posición 
    de la cadena en la que se encuentra ese carácter, en caso de que se encuentre. 
 	 Si el carácter no se encuentra, el programa imprimirá -1. 
